@@ -1,4 +1,4 @@
-# 🔐 Tools Encrypt by YuraTrushed 
+# 🔐 Tools Encrypt by ManzsModz666 
 
 ini adalah tools encrypt file seperti python, html, dan nodejs
 ---
@@ -6,8 +6,8 @@ ini adalah tools encrypt file seperti python, html, dan nodejs
 ## 📥 Cara Install & Jalankan
 
 ```
-git clone https://github.com/ManzsModz/tools-encrypt.git
+git clone https://github.com/ManzsModz/manenc.git
 
-cd tools-encrypt 
+cd manenc
 
 python TOOLS-ENC.py
